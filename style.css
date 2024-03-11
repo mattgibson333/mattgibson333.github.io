@@ -1,0 +1,9 @@
+header {
+    text-align: center; /* Centers the text inside the header container */
+}
+
+.container {
+    max-width: 800px; /* Sets the max container width to prevent odd appearance on larger screens */
+    margin: 0 auto; /* Sets the vertical margins to 0 and the horizontal to auto center left and right */
+    padding: 20px 0; /* Padding is used to keep space between text and the edge of a container */
+}
