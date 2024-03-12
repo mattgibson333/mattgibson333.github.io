@@ -2,6 +2,11 @@ header {
     text-align: center; /* Centers the text inside the header container */
 }
 
+section {
+    text-align: left;
+    margin: 0 50;
+}
+
 .container {
     max-width: 800px; /* Sets the max container width to prevent odd appearance on larger screens */
     margin: 0 auto; /* Sets the vertical margins to 0 and the horizontal to auto center left and right */
